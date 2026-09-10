@@ -1,0 +1,6 @@
+{
+  "name": "ACTIVE",
+  "description": "Ad-free YouTube client with authentic interface, original YouTube data and playback, smart video quality and speed controls, and custom hybrid branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
